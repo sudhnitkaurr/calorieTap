@@ -1,0 +1,16 @@
+{
+  "name": "calorietap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CalorieTap - AI food calorie tracker with a single Node.js backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
